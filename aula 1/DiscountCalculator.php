@@ -16,4 +16,5 @@ class DiscountCalculator
 
         return $value;
     }
+    
 }
